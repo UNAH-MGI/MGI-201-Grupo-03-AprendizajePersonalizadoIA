@@ -6,8 +6,11 @@ Este proyecto es parte de la asignatura de eLearning y tiene como objetivo explo
 
 Integrantes:
 👩‍💼 Karol Lara – karol.larahdz@gmail.com
+
 👩‍💼 Wendy Martínez – wcarolmh@gmail.com
+
 👨‍💼 Ariel Lutz – ariellutz10@gmail.com
+
 👨‍💼 Lester Ordoñez – lbartoamador@gmail.com
 
 Acceso a trello, distrubución de responsabilidades: https://trello.com/invite/b/68560c1f2933242bb496d229/ATTIb73716c9c91c47084e801da2b09ee8e1C256FE60/implementacion-aprendizaje-personalizado-con-ia
