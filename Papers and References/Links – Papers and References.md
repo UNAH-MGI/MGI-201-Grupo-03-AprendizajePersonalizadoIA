@@ -16,3 +16,9 @@ Leer en ResearchGate
 
 https://www.researchgate.net/publication/370672313_E-learning_and_the_Use_of_AI_A_Review_of_Current_Practices_and_Future_Directions
 
+
+📚 **Referencia en formato APA:**  
+Cetina Ucán, I. de J. ., Aguileta Güemez, A., Aguilar Vera, R. A. ., & Ucán Pech, J. P. . (2024). Diagnóstico de TDAH con Machine Learning y Sensores: Un Mapeo Sistemático. ReCIBE, Revista electrónica De Computación, Informática, Biomédica Y Electrónica, 12(2), C8–12.
+
+DOI: https://doi.org/10.32870/recibe.v12i2.331
+URL: https://recibe.cucei.udg.mx/index.php/ReCIBE/article/view/331/209
