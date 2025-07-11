@@ -22,3 +22,5 @@ Acceso a trello, distrubución de responsabilidades: https://trello.com/invite/b
 https://docs.google.com/document/d/15unBnjYH_gGkAB689tXagebVYp6t_YM9Xz87JloDIpo/edit?usp=sharing
 
 ## 🧠 Dataset y análisis
+https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip
+
