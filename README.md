@@ -20,9 +20,11 @@ https://trello.com/invite/b/68560c1f2933242bb496d229/ATTIb73716c9c91c47084e801da
 
 ## 📑 Documento Compartido
 Documento de Word con el informe del proyecto
-https://unahhn-my.sharepoint.com/:w:/g/personal/lester_ordonez_unah_hn/ES_OHfwdRt5Iom8WCLcjeswBfdKzwO7F4wjWlowYyG-qRQ?e=ABlWzg
 
-https://docs.google.com/document/d/15unBnjYH_gGkAB689tXagebVYp6t_YM9Xz87JloDIpo/edit?usp=sharing
+🚀 https://unahhn-my.sharepoint.com/:w:/g/personal/lester_ordonez_unah_hn/ES_OHfwdRt5Iom8WCLcjeswBfdKzwO7F4wjWlowYyG-qRQ?e=ABlWzg
+
+🚀 https://docs.google.com/document/d/15unBnjYH_gGkAB689tXagebVYp6t_YM9Xz87JloDIpo/edit?usp=sharing
+
 
 ## 🧠 Dataset y análisis
 https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip
