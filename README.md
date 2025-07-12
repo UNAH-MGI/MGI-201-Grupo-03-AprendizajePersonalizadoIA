@@ -24,3 +24,5 @@ https://docs.google.com/document/d/15unBnjYH_gGkAB689tXagebVYp6t_YM9Xz87JloDIpo/
 ## 🧠 Dataset y análisis
 https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip
 
+## 💻 NOTEBOOK en Colab de Google
+https://colab.research.google.com/drive/1QkFOsIv5vLHk6rEaHOFYRQ8lUcvB1Zzd?usp=sharing
