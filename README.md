@@ -15,10 +15,12 @@ Este proyecto es parte de la asignatura de eLearning y tiene como objetivo explo
 👨‍💼 Lester Ordoñez – lbartoamador@gmail.com
 
 ## 📆 Cronograma
-
-Acceso a trello, distrubución de responsabilidades: https://trello.com/invite/b/68560c1f2933242bb496d229/ATTIb73716c9c91c47084e801da2b09ee8e1C256FE60/implementacion-aprendizaje-personalizado-con-ia
+Acceso a trello, distrubución de responsabilidades: 
+https://trello.com/invite/b/68560c1f2933242bb496d229/ATTIb73716c9c91c47084e801da2b09ee8e1C256FE60/implementacion-aprendizaje-personalizado-con-ia
 
 ## 📑 Documento Compartido
+Documento de Word con el informe del proyecto
+https://unahhn-my.sharepoint.com/:w:/g/personal/lester_ordonez_unah_hn/ES_OHfwdRt5Iom8WCLcjeswBfdKzwO7F4wjWlowYyG-qRQ?e=ABlWzg
 https://docs.google.com/document/d/15unBnjYH_gGkAB689tXagebVYp6t_YM9Xz87JloDIpo/edit?usp=sharing
 
 ## 🧠 Dataset y análisis
